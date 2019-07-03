@@ -1,0 +1,20 @@
+#Deployment Plugin Project File
+#Tue Jul 02 22:43:55 BRT 2019
+build.ant.name=<.>\\resources\\dp\\repa_app_build.xml
+build.dp.file=<.>\\resources\\dp\\repa_app.dp
+build.location=
+bundles.0.bundle_path=C\:\\Desenvolvimento\\eclipse\\JAR_files\\Kura400\\repd_app\\plugins\\ufrj.coppe.lcp.repa.app_1.0.0.201907022241.jar
+bundles.0.customizer=false
+bundles.0.headers.count=0
+bundles.0.missing=false
+bundles.0.name=bundles/ufrj.coppe.lcp.repa.app_1.0.0.201907022241.jar
+bundles.0.symbolic_name=ufrj.coppe.lcp.repa.app
+bundles.0.version=1.0.0.201907022241
+bundles.count=1
+certificates.count=0
+general.signbundles=false
+headers.other.headers=
+headers.symbolic.name=repa_app
+headers.version=1.0.0
+resources.count=0
+
